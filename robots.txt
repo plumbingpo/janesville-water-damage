@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationjanesville.com/sitemap.xml
